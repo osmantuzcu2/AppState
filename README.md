@@ -1,12 +1,10 @@
-# appstate
+# AppState
 
-A new Flutter project.
+Nowen Software 2019
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+This project is a clone of Flutter starter project. The only thing that changes, Inherited Widget has been used for setting states.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
